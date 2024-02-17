@@ -1,0 +1,58 @@
+body  {
+    background: linear-gradient(to left, #33ccff, #ff99cc);
+}
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div p {
+    padding: 30px;
+    font-size: 300%;
+    background: linear-gradient(to right, #33ccff, #ff99cc);
+    border-radius: 50px;
+}
+div input[type="number"], button {
+    font-size: 150%;
+    width: 20%;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
